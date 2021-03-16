@@ -8,4 +8,4 @@ Your contributions and suggestions are welcome.
 
 ## Info Gather / Recon
 
-![recon stage](https://ibb.co/QbgVQhr)
+![recon stage](/images/pt info gather.PNG)
