@@ -6,3 +6,6 @@ This checklist is completely based on OWASP Testing Guide v 4. The OWASP Testing
 ### Contribution
 Your contributions and suggestions are welcome.
 
+## Info Gather / Recon
+
+![recon stage](https://ibb.co/QbgVQhr)
