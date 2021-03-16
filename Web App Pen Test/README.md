@@ -8,4 +8,4 @@ Your contributions and suggestions are welcome.
 
 ## Info Gather / Recon
 
-![recon stage](/images/pt info gather.PNG)
+![recon stage](/Web\ App\ Pen\ Test/images/pt\ info\ gather.PNG)
