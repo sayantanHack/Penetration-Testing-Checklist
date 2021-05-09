@@ -8,4 +8,4 @@ Your contributions and suggestions are welcome.
 
 ## Info Gather / Recon
 
-![recon stage](https://ibb.co/QbgVQhr)
+![recon stage](https://raw.githubusercontent.com/sayantanHack/Penetration-Testing-Checklist/main/Web%20App%20Pen%20Test/images/pt%20info%20gather.PNG)
